@@ -1,0 +1,12 @@
+.body {
+  background-image: url('./theater.jpg');
+  background-repeat: repeat-y;
+margin: 0 auto;
+  height: 100vh;
+}
+
+
+#title {
+  color: white;
+  
+}
